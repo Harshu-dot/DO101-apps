@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple Node.js app to demonstrate updates and webhooks",
   "main": "app.js",
-  "scripts": {
+  "scripts": {  
     "start": "node app.js"
   },
   "author": "Red Hat Training",
